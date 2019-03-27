@@ -66,3 +66,9 @@ btnFacebook.addEventListener('click', function () {
   var provider = new firebase.auth.FacebookAuthProvider();
   signIn(provider);
 });
+
+// Autenticação via google
+btnGoogle.addEventListener('click', function () {
+  var provider = new firebase.auth.GoogleAuthProvider();
+  signIn(provider);
+});
