@@ -3,6 +3,8 @@ Projeto rede social, realizado em trio, na Laboratoria.
 
 ## Índice
 
+* [Como utilizar](#como-utilizar)
+* [Organização/Planejamento](#organização/planejamento)
 * [Definição do produto](#definição-do-produto)
 * [Personas](#personas)
 * [Histórias de usuário](#Histórias-de-usuário)
@@ -12,6 +14,10 @@ Projeto rede social, realizado em trio, na Laboratoria.
   * [Testes de usabilidade](#testes-de-usabilidade)
 
 [Link da aplicação](https://timecast-1557870834786.firebaseapp.com/)
+
+## Como Utilizar
+![Login Exemplo](./public/src/img/examples/login-redesocial-example.png)
+![Feed Exemplo](./public/src/img/examples/feed.png)
 
 ## Organização/Planejamento
 
